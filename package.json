@@ -1,0 +1,13 @@
+{
+    "name": "goots-shooter",
+    "version": "0.0.1",
+    "description": "Goots Shooter",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^4.4.0",
+        "tmi.js": "^1.8.5"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
